@@ -1,0 +1,14 @@
+;Note: to set the paths just paste it inside ""
+
+;The folder directly containing the game's savefiles
+;example: = "C:\Users\Admin\Saved Games\kingdomcome\saves\playline0"
+SavefilePath = ""
+
+;Archive storage location
+;ex: = "C:\Users\Admin\Saved Games\kingdomcome\saves\"
+;I prefer to keep the backups in the parent folder of the saves folder
+ArchivePath = ""
+
+;Desired Game Title
+GameTitleID = ""  
+
