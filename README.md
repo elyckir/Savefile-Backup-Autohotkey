@@ -7,5 +7,5 @@ Extract: Ctrl &amp; Del</p>
 <li>Run the SaveHotkey*.ahk script</li>
 <li>Activate desired hotkeys</li>
 </ol>
-<p dir="auto">!While Compressing or backing up savefiles can be used at any moment indefinately, It is important to not Extract while the game is running. Check Task Manager to make sure.</p>
+<p dir="auto">!While Compressing or backing up savefiles can be used at any moment indefinitely, It is important to not Extract while the game is running. Check Task Manager to make sure.</p>
 <p dir="auto"> <sub>Originally created for Watch Dogs Legion to recover operatives lost during sheer chaotic moments. </sub></p>
